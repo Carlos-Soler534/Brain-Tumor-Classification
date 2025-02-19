@@ -1,0 +1,1 @@
+Esta carpeta se encuentra vacía debido a que los modelos construidos son muy pesados para subir al repositorio. Ejecutando el notebook de este proyecto se pueden generar, entrenar y guardar los modelos en la carpeta models sin ningún problema.
